@@ -226,6 +226,10 @@
     font-weight:bold;
   }
   
+ .posts-link:hover {
+    text-decoration: underline;
+  }
+
   .posts-title {
     font-family: OpenSans, Arial, serif;
     font-weight:bold;
@@ -241,7 +245,7 @@
     color: #0f0d0e;
   }
   
-  .posts-title-link:hover{
+  .posts-title-link:hover {
     color: #b59f5b;
   }
   
