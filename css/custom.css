@@ -442,6 +442,10 @@
     color: #000;
   }
   
+.search-input:focus {
+border-color: #b59f5b;
+}
+
   .search-btn {
     width: 48px;
     height: 40px;
@@ -451,6 +455,10 @@
     background-position: center;
     border:none;
     background-size: 17px;
+  }
+
+  .search-btn:hover{
+    background-color: #323232;
   }
   
   /*aside subscription*/
