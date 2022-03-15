@@ -443,8 +443,7 @@
   }
   
 .search-input:focus {
-  outline: none;
-  border-color: #b59f5b;
+    border-color: #b59f5b;
 }
 
   .search-btn {
