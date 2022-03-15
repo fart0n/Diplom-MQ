@@ -444,7 +444,7 @@
   
 .search-input:focus {
     outline: none;
-    border-color: #b59f5b;
+    border: 1px solid #b59f5b;
 }
 
   .search-btn {
@@ -496,6 +496,11 @@
     color: #000;
   }
   
+  .subscription-input:focus {
+    outline: none;
+    border: 1px solid #b59f5b;
+}
+
   .subscription-btn {
     width: 100%;
     border: none;
